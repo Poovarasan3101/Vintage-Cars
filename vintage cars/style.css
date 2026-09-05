@@ -393,7 +393,7 @@
 }
 
 /* ------------------------------Responsive---------------- */
-@media (max-width: 768px){
+@media (max-width: 488px){
     #main_index_page{
         height: 700px;
         width: 100%;
